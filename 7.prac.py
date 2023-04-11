@@ -1,8 +1,8 @@
-!pip install plotly
+
 import streamlit as st
 import altair as alt
 import pandas as pd
-import plotly.express as px
+
 
 
 st.title('종합 실습')
